@@ -1,2 +1,2 @@
 # hockyh.github.io
-Whatever
+[Whatever](https://hockyh.github.io/whatever)
